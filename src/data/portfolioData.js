@@ -139,4 +139,13 @@ export const portfolioData = [
     info: "Réalisation de plateaux pour divers événements.",
     picture: "./media/logo-galaxie-presse.png",
   },
+  {
+    id: 14,
+    name: "CEV",
+    types: ["Direct", "TV", "Web"],
+    typesIcons: ["fas fa-tv", "fas fa-network-wired", "fas fa-satellite-dish"],
+    site: "https://www.cev.eu/",
+    info: "Réalisation de matchs de la Golden League.",
+    picture: "./media/logo-CEV.png",
+  },
 ];

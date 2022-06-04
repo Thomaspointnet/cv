@@ -8,8 +8,8 @@ const Experience = () => {
         <h4>Réalisateur Vidéo</h4>
         <h5>depuis 2013</h5>
         <p>
-          Réalisation de différentes émissions en direct pour de nombreuses
-          chaînes, productions événementielles et sites internet.
+          Réalisation d'émissions en direct pour de nombreuses chaînes,
+          productions événementielles et organisations.
         </p>
       </div>
       <div className="exp-2">
